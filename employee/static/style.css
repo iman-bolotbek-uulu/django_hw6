@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+li {
+    list-style: none;
+}
+p {
+    padding: 10px 10px 10px 10px;
+}
